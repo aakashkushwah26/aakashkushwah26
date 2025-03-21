@@ -3,11 +3,11 @@ _"Life is a journey, not a destination"_
 
 ## 🌱 About Me:
 - 🔭 I'm currently learning **Deep Learning**
-- 📫 How to reach me: **[your-email@gmail.com](mailto:your-email@gmail.com)**
+- 📫 How to reach me: **[aakashkushwah2603@gmail.com](mailto:your-email@gmail.com)**
 - 🌐 Checkout my portfolio: **[My Portfolio](your-portfolio-link)**
 
 ## 📱 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](your-linkedin-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aakash2603/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](your-instagram-url)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](your-twitter-url)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](your-youtube-url)
